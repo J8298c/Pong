@@ -12,3 +12,6 @@ Your mouse controls the left paddle
 
 Hint
 It is all about ball control if you take risks and hit the ball with the corner of your paddle you will give the AI a run for its money!!!!
+
+Click here to Play
+<a href="https://j8298c.github.io/Pong" target="_blank">Click here to Play</a>
